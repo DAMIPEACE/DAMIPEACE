@@ -5,9 +5,9 @@
 <!-- 02 · ANIMATED ROLE TYPING -->
  
 <!-- 03 · QUICK-ACTION BADGES -->
-<div align="center">   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views" />   <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=6a11cb&logo=github" alt="GitHub Followers" />   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0e75b6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" /> </div>
+<div align="center">   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views" />   <img src="https://img.shields.io/github/followers/DAMIPEACE?label=Followers&style=for-the-badge&color=6a11cb&logo=github" alt="GitHub Followers" />   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0e75b6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" /> </div>
 <br/>
-<div align="center">   <a href="LinkedIn: Log In or Sign Up" target="_blank" rel="noopener noreferrer">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   </a>   <a href="mailto:YOUR-EMAIL@example.com">     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />   </a>   <a href="your-github-username - Overview">     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />   </a> </div>
+<div align="center">   <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178" target="_blank" rel="noopener noreferrer">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   </a>   <a href="mailto:damiabdulpeace@gmail.com">     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />   </a>    </div>
 <br/>
 <!-- 04 · SECTION DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
