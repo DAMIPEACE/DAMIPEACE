@@ -88,7 +88,8 @@ Replace these examples with links to completed projects and verified findings as
 <!-- 10 · CONTACT -->
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">   I'm interested in data analytics, business intelligence, collaborative projects, and opportunities to turn complex data into useful business insights. </p>
-<p align="center">   📩 <b>Contact:</b> damiabdulpeace@gmail.com  <br/>   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178">Connect with me</a>   <br/>   🌐 <b>Portfolio:</b> Add your portfolio or dashboard link here </p>
+<p align="center">   📩 <b>Contact:</b> damiabdulpeace@gmail.com  <br/>   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178">Connect with me</a>   <br/>   🌐
+ </p>
 <!-- FOOTER -->
 <div align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=120&section=footer"     width="100%"     alt=""   />   <b>Thanks for visiting my profile! Let's turn data into insights. 📊</b> </div>
  
