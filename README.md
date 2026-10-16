@@ -15,28 +15,37 @@
 <h2 align="center">📊 About Me</h2>
 <img align="right" alt="Data analytics illustration" width="340" src="https://res.cloudinary.com/zxv4n7p2/image/upload/v1792159394/mydatimg.png" />
 I'm a data enthusiast passionate about transforming raw data into meaningful insights that support better business decisions. I enjoy exploring datasets, uncovering trends, building dashboards, and communicating findings through clear data visualizations.
+
 damilola: DataAnalyst = {
-    "name": "Damilola Abdulazeez",
+    "name": "Damilola Peace Abdulazeez",
     "role": "Data Analyst",
     "location": "Nigeria | Open to Remote Opportunities",
-    "languages": ["SQL", "Python"],
+
+    "languages": [
+        "SQL",
+        "Python"
+    ],
+
     "data_analysis": [
         "Data Cleaning",
         "Exploratory Data Analysis",
         "Statistical Analysis",
         "Data Transformation"
     ],
+
     "visualization": [
         "Power BI",
         "Microsoft Excel",
         "Matplotlib",
         "Seaborn"
     ],
+
     "databases": [
         "PostgreSQL",
         "MySQL",
         "Microsoft SQL Server"
     ],
+
     "tools": [
         "Jupyter Notebook",
         "Pandas",
@@ -44,19 +53,21 @@ damilola: DataAnalyst = {
         "Git",
         "GitHub"
     ],
+
     "interests": [
         "Business Intelligence",
         "Data Storytelling",
         "Customer Analytics",
         "Predictive Analytics"
     ],
+
     "currently_learning": [
         "Advanced SQL",
         "Statistics",
         "Machine Learning Fundamentals"
     ],
-    "goal": "Turning data into actionable insights 📈"
 }
+
 <!-- 06 · TECH STACK -->
 <h2 align="center">🛠️ Tools & Technologies</h2>
 <p align="center">   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </p>
@@ -77,7 +88,7 @@ Replace these examples with links to completed projects and verified findings as
 <!-- 10 · CONTACT -->
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">   I'm interested in data analytics, business intelligence, collaborative projects, and opportunities to turn complex data into useful business insights. </p>
-<p align="center">   📩 <b>Contact:</b> YOUR-EMAIL@example.com   <br/>   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178">Connect with me</a>   <br/>   🌐 <b>Portfolio:</b> Add your portfolio or dashboard link here </p>
+<p align="center">   📩 <b>Contact:</b> damiabdulpeace@gmail.com  <br/>   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178">Connect with me</a>   <br/>   🌐 <b>Portfolio:</b> Add your portfolio or dashboard link here </p>
 <!-- FOOTER -->
 <div align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=120&section=footer"     width="100%"     alt=""   />   <b>Thanks for visiting my profile! Let's turn data into insights. 📊</b> </div>
  
