@@ -73,13 +73,11 @@ Replace these examples with links to completed projects and verified findings as
 <div align="center">   <img     src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"     height="165"     alt="GitHub statistics"   />   <img     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"     height="165"     alt="Most used programming languages"   /> </div>
 <br/>
 <div align="center">   <img     src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true"     alt="GitHub contribution streak"   /> </div>
-<!-- 09 · CONTRIBUTION GRAPH -->
-<h2 align="center">📅 Contribution Activity</h2>
-<div align="center">   <img     src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true"     width="100%"     alt="GitHub contribution activity graph"   /> </div>
+<!-- 09 · CONTRIBUTION GRAPH --> 
 <!-- 10 · CONTACT -->
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">   I'm interested in data analytics, business intelligence, collaborative projects, and opportunities to turn complex data into useful business insights. </p>
-<p align="center">   📩 <b>Contact:</b> YOUR-EMAIL@example.com   <br/>   💼 <b>LinkedIn:</b> <a href="LinkedIn: Log In or Sign Up">Connect with me</a>   <br/>   🌐 <b>Portfolio:</b> Add your portfolio or dashboard link here </p>
+<p align="center">   📩 <b>Contact:</b> YOUR-EMAIL@example.com   <br/>   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdulazeez-damilola-360a61178">Connect with me</a>   <br/>   🌐 <b>Portfolio:</b> Add your portfolio or dashboard link here </p>
 <!-- FOOTER -->
 <div align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=120&section=footer"     width="100%"     alt=""   />   <b>Thanks for visiting my profile! Let's turn data into insights. 📊</b> </div>
  
