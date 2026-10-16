@@ -3,7 +3,7 @@
 <!-- 01 · HERO BANNER -->
 <div align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=230&section=header&text=Damilola%20Abdulazeez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Data%20Storytelling&descAlignY=58&descSize=17&descAlign=50"     width="100%"     alt="Damilola Abdulazeez — Data Analyst"   /> </div>
 <!-- 02 · ANIMATED ROLE TYPING -->
-<div align="center">   <a href="your-github-username - Overview">     <img       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&col…'m+Damilola+Abdulazeez;Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Actionable+Insights+%F0%9F%92%A1;SQL+%7C+Python+%7C+Power+BI;Exploring+Data%2C+Discovering+Insights+%F0%9F%9A%80"       alt="Animated introduction"     />   </a> </div>
+ 
 <!-- 03 · QUICK-ACTION BADGES -->
 <div align="center">   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="Profile Views" />   <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&color=6a11cb&logo=github" alt="GitHub Followers" />   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0e75b6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" /> </div>
 <br/>
