@@ -10,7 +10,7 @@
 <div align="center">   <a href="LinkedIn: Log In or Sign Up" target="_blank" rel="noopener noreferrer">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   </a>   <a href="mailto:YOUR-EMAIL@example.com">     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />   </a>   <a href="your-github-username - Overview">     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />   </a> </div>
 <br/>
 <!-- 04 · SECTION DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+<img src="https://res.cloudinary.com/zxv4n7p2/image/upload/v1792159394/mydatimg.png" width="100%" alt="" />
 <!-- 05 · ABOUT ME -->
 <h2 align="center">📊 About Me</h2>
 <img align="right" alt="Data analytics illustration" width="340" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
